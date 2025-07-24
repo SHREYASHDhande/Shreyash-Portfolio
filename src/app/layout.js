@@ -15,15 +15,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "DevyManish | Manish Gupta's Portfolio",
-  description: "I'm DevyManish by work and Manish Gupta in real life. I am a passionate web developer showcasing my projects and expertise on this portfolio. Explore my work in web development, MERN projects, web applications, and more!",
-  keywords: "devymanish, DevyManish, manishguptafr, portfolio, HTML, CSS, portfolio , Manish Gupta, DevyManish portfolio, devymanish portfolio, Manish Gupta portfolio, manishguptaa, manishguptafr linkedin, manishguptafr website, web developer, MERN projects, web applications",
-  author: "Manish Gupta",
-  canonical: "https://www.manishguptaa.me",
+  title: "Shreyash Dhande | Shreyash Dhande's Portfolio",
+  description: "I'm Shreyash Dhande , a passionate web developer showcasing my projects and expertise on this portfolio. Explore my work in web development, MERN projects, web applications, and more!",
+  keywords: "shreyash, shreyash dhande, shreyash juet, portfolio, HTML, CSS, portfolio , Shreyash Dhande , Shreyash Dhande  portfolio, Shreyash portfolio,Shreyash Dhande  portfolio, shreyasfr website, web developer, MERN projects, web applications",
+  author: "Shreyash Dhande",
+  canonical: "https://www.shreyashdhande.me",
   openGraph: {
-    title: "DevyManish | Manish Gupta's Portfolio",
-    description: "I'm DevyManish by work and Manish Gupta in real life. I am a passionate web developer showcasing my projects and expertise on this portfolio. Explore my work in web development, MERN projects, web applications, and more!",
-    url: "https://www.manishguptaa.me",
+    title: "Shreyash Dhande | Shreyash Dhande's Portfolio",
+    description: "I'm Shreyash Dhande  by work and Shreyash Dhande  in real life. I am a passionate web developer showcasing my projects and expertise on this portfolio. Explore my work in web development, MERN projects, web applications, and more!",
+    url: "https://www.ShreyashDhande.me",
     type: "website",
     images: [
       {
@@ -34,12 +34,7 @@ export const metadata = {
       },
     ],
   },
-  twitter: {
-    card: "summary_large_image",
-    title: "DevyManish | Manish Gupta Portfolio",
-    description: "I'm DevyManish by work and Manish Gupta in real life. I am a passionate web developer showcasing my projects and expertise on this portfolio. Explore my work in web development, MERN projects, web applications, and more!",
-    images: ["http://www.manishguptaa.me/src/assets/devymanish-manish-gupta-profile.png"],
-  },
+  
   robots: {
     index: true,
     follow: true,
